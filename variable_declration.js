@@ -1,6 +1,6 @@
 name = "dantani prince pintubhai";
-age = "18";
-salary = "100000.00000"
+age = 18;
+salary = 100000.00000
 x=null;
 y=undefined;
 isfollow=true;
