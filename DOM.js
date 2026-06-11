@@ -1,2 +1,2 @@
-let heading = document.querySelector("#heading");
-console.log(heading)
+let btn = document.queryselector("#id");
+console.dir(btn);
