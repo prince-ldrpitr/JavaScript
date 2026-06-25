@@ -1,4 +1,4 @@
-let boxes = document.querySelectorAll("#box");
+let boxes = document.querySelectorAll(".box");
 let resetbtn = document.querySelector("#reset");
 let newbtn = document.querySelector("#newbtn");
 let msg_container = document.querySelector(".msg-container");
